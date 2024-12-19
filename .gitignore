@@ -2,7 +2,7 @@
 .idea
 .DS_Store
 staticfiles/
-.env/*
+.envs/*
 !.envs/.env.example
 
 # Byte-compiled / optimized / DLL files
